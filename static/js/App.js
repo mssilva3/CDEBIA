@@ -34,7 +34,7 @@ function App() {
 
     qrcode.toCanvas(
       canvas, 
-      'https://meia-entrada-com-br-732dbb7c-0654-483e-aeee-4ba0d322064e.vercel.app/?code='+code,
+      'https://meia-entrada-com-br-f6f248b4-a380-4dbe-8471-69d5ee1a7482.vercel.app/?code='+code,
       {
         margin: '5',
         scale: '5'
@@ -58,7 +58,7 @@ function App() {
   }
 
   const openCertificate = () => {
-    window.location.href = 'https://meia-entrada-com-br-732dbb7c-0654-483e-aeee-4ba0d322064e.vercel.app'
+    window.location.href = 'meia-entrada-com-br-f6f248b4-a380-4dbe-8471-69d5ee1a7482.vercel.app'
   }
 
   return (
