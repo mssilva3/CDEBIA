@@ -88,13 +88,13 @@ function App() {
         </div>
 
         <div className='info'>
-          <span className='title'>LETICIA DE OLIVEIRA CACHAFEIRO</span>
-          <p><span>Ins. Ensino:</span> Pontifícia Universidade Católica - PUC</p>
-          <p><span>Curso:</span> Medicina</p>
+          <span className='title'>BEATRIZ TEIXEIRA</span>
+          <p><span>Ins. Ensino:</span>UNIP</p>
+          <p><span>Curso:</span> Administração</p>
           <p><span>Nível de Ensino:</span> SUPERIOR</p>
           <p><span>RG:</span> 395039526</p>
-          <p><span>Data de Nasc:</span> 28/02/1992</p>
-          <p><span>Validade:</span> 22/03/2028</p>
+          <p><span>Data de Nasc:</span> 29/06/1994</p>
+          <p><span>Validade:</span> 22/03/2027</p>
         </div>
       </div>
 
