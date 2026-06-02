@@ -76,7 +76,7 @@ function App() {
 
       <div className='container'>
         <div style={{flexDirection: 'row',display: 'flex',justifyContent: 'center'}}>
-          <div className='card'><img className='foto' src={foto} alt='teste' /></div>
+          <div className='card'><img className='foto' src={foto} alt='x' /></div>
           <div style={{width: '3%'}}></div>
           <div className='card qrcode-container'>
             {/* <img className='qrcode' src={qrcodeimg} /> */}
