@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700&display=swap);body {
+    background-color: #1f2430;
+    margin: 0
+}
+
+.App {
+    align-items: center;
+    background-color: #dde2ee;
+    background-image: url(/static/media/background_dne.f63ee31c52be6aaee60a.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    font-family: Montserrat,sans-serif;
+    height: 100vh;
+    justify-content: space-between;
+    width: 100vw
+}
+
+.card {
+    background-color: #fff;
+    padding: 5px;
+    width: 43%
+}
+
+.card,.foto {
+    border-radius: 15px
+}
+
+.foto {
+    height: 100%;
+    width: 100%
+}
+
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%
+}
+
+.item {
+    padding: 3%
+}
+
+.menu-container {
+    align-items: center;
+    display: flex;
+    padding: 3%
+}
+
+.text {
+    color: #cc4f86;
+    margin: 0;
+    padding-left: 5px
+}
+
+.certified,.certified-checked {
+    background: #fff;
+    border-radius: 20px;
+    padding: 10px 13px;
+    -webkit-user-select: none;
+    user-select: none
+}
+
+.certified,.certified-checked,.loader {
+    align-items: center;
+    bottom: 14vh;
+    display: flex;
+    position: absolute
+}
+
+.qrcode {
+    border-radius: 15px
+}
+
+.canvas-block,.qrcode {
+    width: 100%
+}
+
+.qrcode-canvas {
+    border-radius: 15px;
+    height: 100%!important;
+    position: relative;
+    width: 100%!important
+}
+
+.qrcode-container {
+    display: flex;
+    flex-direction: column
+}
+
+.info {
+    background: #fff;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 10px;
+    width: 90%
+}
+
+span {
+    font-weight: 600
+}
+
+p {
+    margin-bottom: 0;
+    margin-top: 7px
+}
+
+.title {
+    font-weight: 700
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24vh
+}
+
+/*# sourceMappingURL=main.3eee1d93.css.map*/
