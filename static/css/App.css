@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700&display=swap');
+
+.App {
+  /* === Sizing === */
+  width: 100vw;
+  height: 100vh;
+
+  /* === Content Alignment === */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #dde2ee;
+  background-image: url(./background_dne.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.card {
+  width: 43%;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.foto {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+
+.header {
+  display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item {
+  padding: 3%
+}
+
+.menu-container {
+  padding: 3%;
+    display: flex;
+    align-items: center;
+}
+
+.text {
+  color: #cc4f86;
+  padding-left: 5px;
+  margin: 0;
+}
+
+.certified {
+  background: #fff;
+    padding: 10px 13px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 14vh;
+    user-select: none;
+}
+
+.certified-checked {
+  background: #fff;
+    padding: 10px 13px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 14vh;
+    user-select: none;
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 14vh;
+}
+
+.qrcode {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.canvas-block {
+  width: 100%
+}
+
+.qrcode-canvas {
+  position: relative;
+  height: 100% !important;
+  width: 100% !important;
+  border-radius: 15px;
+}
+
+.qrcode-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  width: 90%;
+  background: white;
+  border-radius: 15px;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+span {
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 0;
+  margin-top: 7px;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24vh;
+}
