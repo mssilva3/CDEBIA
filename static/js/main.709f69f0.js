@@ -10383,19 +10383,19 @@
                         children: [(0,
                         u.jsx)("span", {
                             className: "title",
-                            children: "LETICIA DE OLIVEIRA CACHAFEIRO"
+                            children: "BEATRIZ TEIXEIRA"
                         }), (0,
                         u.jsxs)("p", {
                             children: [(0,
                             u.jsx)("span", {
                                 children: "Ins. Ensino:"
-                            }), " Pontif\xedcia Universidade Cat\xf3lica - PUC"]
+                            }), " UNIP"]
                         }), (0,
                         u.jsxs)("p", {
                             children: [(0,
                             u.jsx)("span", {
                                 children: "Curso:"
-                            }), " Medicina"]
+                            }), " Administração"]
                         }), (0,
                         u.jsxs)("p", {
                             children: [(0,
@@ -10413,13 +10413,13 @@
                             children: [(0,
                             u.jsx)("span", {
                                 children: "Data de Nasc:"
-                            }), " 28/02/1992"]
+                            }), " 29/06/1994"]
                         }), (0,
                         u.jsxs)("p", {
                             children: [(0,
                             u.jsx)("span", {
                                 children: "Validade:"
-                            }), " 22/03/2028"]
+                            }), " 22/03/2027"]
                         })]
                     })]
                 }), s && (0,
